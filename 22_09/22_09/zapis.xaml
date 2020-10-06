@@ -1,0 +1,19 @@
+﻿<Window x:Class="_22_09.zapis"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_22_09"
+        mc:Ignorable="d"
+        Title="zapis" Height="359" Width="312">
+    <Grid Margin="0,0,2,4">
+        <Label x:Name="label" Content="Запись" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="70"/>
+        <Button x:Name="b_urolog" Content="Уролог" HorizontalAlignment="Left" Margin="32,75,0,0" VerticalAlignment="Top" Width="98" FontSize="16" Height="36" Click="b_urolog_Click"/>
+        <Button x:Name="b_stomot" Content="Стоматолог" HorizontalAlignment="Left" Margin="171,126,0,0" VerticalAlignment="Top" Width="106" FontSize="16" Height="38" Click="B_stomot_Click"/>
+        <Button x:Name="b_terapevt" Content="Терапевт" HorizontalAlignment="Left" Margin="32,126,0,0" VerticalAlignment="Top" Width="98" FontSize="16" Height="38" Click="B_terapevt_Click"/>
+        <Button x:Name="b_okulist" Content="Окулист" HorizontalAlignment="Left" Margin="171,75,0,0" VerticalAlignment="Top" Width="106" FontSize="16" Height="36" Click="B_okulist_Click"/>
+        <Button x:Name="b_ginekolog" Content="Гинеколог" HorizontalAlignment="Left" Margin="32,184,0,0" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.595,0.55" Height="36" FontSize="16" Click="B_ginekolog_Click"/>
+        <Button x:Name="b_vihod" Content="Выход" HorizontalAlignment="Left" Margin="118,261,0,0" VerticalAlignment="Top" Width="83" Background="#FFD46363" FontSize="20" Height="35" Click="B_vihod_Click"/>
+
+    </Grid>
+</Window>

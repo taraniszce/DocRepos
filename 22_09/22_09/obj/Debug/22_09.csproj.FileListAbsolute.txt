@@ -1,0 +1,34 @@
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\bin\Debug\22_09.exe.config
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\bin\Debug\22_09.exe
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\bin\Debug\22_09.pdb
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09.csprojAssemblyReference.cache
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\MainWindow.g.cs
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\App.g.cs
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09_MarkupCompile.cache
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09_MarkupCompile.lref
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\MainWindow.baml
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09.g.resources
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\_22_09.Properties.Resources.resources
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09.csproj.GenerateResource.cache
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09.csproj.CoreCompileInputs.cache
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09.exe
+C:\Users\Гость\Documents\Visual Studio 2017\Projects\22_09\22_09\obj\Debug\22_09.pdb
+F:\ИС1-41\wpf\22_09\22_09\22_09\bin\Debug\22_09.exe.config
+F:\ИС1-41\wpf\22_09\22_09\22_09\bin\Debug\22_09.exe
+F:\ИС1-41\wpf\22_09\22_09\22_09\bin\Debug\22_09.pdb
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09.csprojAssemblyReference.cache
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\MainWindow.g.cs
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\zapis.g.cs
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\App.g.cs
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09_MarkupCompile.cache
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09_MarkupCompile.lref
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\MainWindow.baml
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\zapis.baml
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09.g.resources
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\_22_09.Properties.Resources.resources
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09.csproj.GenerateResource.cache
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09.csproj.CoreCompileInputs.cache
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09.exe
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\22_09.pdb
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\vremya.g.cs
+F:\ИС1-41\wpf\22_09\22_09\22_09\obj\Debug\vremya.baml
